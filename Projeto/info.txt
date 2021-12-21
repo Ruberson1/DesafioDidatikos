@@ -1,0 +1,16 @@
+Desafio;
+
+Criar uma Api Rest de produtos;
+
+- Banco de dados MySql;
+- Back end da Api criado com PHP;
+- Front end da Api criado com vue;
+
+----------------------------------------------------------------------------------------------------------------
+
+Ferramentas utilizadas;
+
+- Laravel;
+- Axios;
+
+
